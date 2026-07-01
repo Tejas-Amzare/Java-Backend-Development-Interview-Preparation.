@@ -135,6 +135,7 @@ No. Abstraction hides **complexity** (what to show). Encapsulation hides **data*
 **Q: Why use OOP in backend?**
 It makes code modular, reusable, testable, and easy for teams to maintain.
 
+
 ---
 
 ## 📎 References
