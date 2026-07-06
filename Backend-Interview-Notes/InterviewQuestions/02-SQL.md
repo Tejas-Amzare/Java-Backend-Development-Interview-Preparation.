@@ -4,6 +4,7 @@
 
 ---
 
+
 ## 🗄️ Basics & CRUD (1–20)
 
 1. **What is SQL?** Structured Query Language to manage relational databases.
